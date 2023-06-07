@@ -1,4 +1,4 @@
-![tests](https://github.com/patronussun/hexlet-ci-app/actions/workflows/setup.yml/badge.svg)
+![tests](https://github.com/patronussun/hexlet-ci-app/actions/workflows/main.yml/badge.svg)
 
 # Example app for CI Hexlet course
 
