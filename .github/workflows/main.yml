@@ -1,4 +1,4 @@
-name: setup
+name: main
 on: push
 jobs: 
   my-jobs:
