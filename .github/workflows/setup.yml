@@ -19,9 +19,6 @@ jobs:
       - name: make lint
         run: make lint
 
-  snyk:
-    runs-on: ubuntu-latest
-    steps:
       - name: Run Snyk to check for vulnerabilities
         uses: snyk/actions/node@master
         env:
